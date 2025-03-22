@@ -221,7 +221,7 @@ module.exports = {
      *
      */
 
-    onlyAllowOrigins: [parsedBasedUrl.origin],
+    onlyAllowOrigins: ['http://localhost:1337', 'https://brello-2yks.onrender.com'],
 
     /**
      *
